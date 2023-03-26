@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theonlyrealG
+- 👋 Hi, i am Fahed @theonlyrealG
 - 👀 I’m interested in machine learning, data analytics and any AI centered projects 
 - 🌱 I’m currently learning anything and everything i can get my hands on 
 - 💞️ I’m looking to collaborate on any projects, research, or simply learning. in any possible capacity 
