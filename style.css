@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#scroll-section {
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+}
+
+#spots-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.spot {
+    width: 50px;
+    height: 50px;
+    background-image: url('images/spots/spot1.png'); /* Placeholder image */
+    background-size: cover;
+    margin: 10px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.spot:hover {
+    cursor: pointer;
+    opacity: 1;
+}
